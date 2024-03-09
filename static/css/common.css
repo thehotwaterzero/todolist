@@ -1,0 +1,26 @@
+.icon_color_red{
+	color: #ff4a6a
+}
+
+.icon_color_orange{
+	color: #dea131;
+}
+
+.theme-green-dark{
+	color: #2b9939;
+}
+
+.gray{
+	background-color: #E6E6E6;
+}
+
+/* scroll-view */
+/* #ifndef APP-APP-PLUS-NVUE */
+.scroll-row{
+	width: 100%;
+	white-space: nowrap;
+}
+
+.scroll-row-item{
+	display: inline-block!important;
+}
